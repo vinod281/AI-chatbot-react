@@ -2,7 +2,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 
 
 //const googleai = new GoogleGenerativeAI(import.meta.env.VITE_GOOGLE_AI_API_KEY);
-const googleai = new GoogleGenerativeAI("AIzaSyDcMwqjQT-sUeQxY9ctnK32EeWJR4p1ziE");
+const googleai = new GoogleGenerativeAI("********* your_api_key **********");
 
 
 export class Assistant{
